@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1800medics.de/sitemap.xml
